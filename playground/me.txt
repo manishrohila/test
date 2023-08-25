@@ -1,5 +1,0 @@
-{{#user}}
-Name: Manish Rohila
-Skills: HTML, CSS, JS, C++,Python(basic)
-Email: manishrohila543@gmail.com
-{{/user}}
